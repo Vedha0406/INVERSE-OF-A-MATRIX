@@ -16,8 +16,8 @@ Finally, print the value of the inverse of the matrix.
 ## Program:
 Program to find the inverse of a matrix.
 ```
-## Developed by: Kamalesh SV
-## RegisterNumber: 22001133
+## Developed by: Vedhashree.G
+## RegisterNumber: 212223240171
 
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
@@ -26,7 +26,8 @@ print(inverse)
 
 ```
 ## Output:
-![OUTPUT](./OUTPUT211.png)
+![alt text](image-1.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
